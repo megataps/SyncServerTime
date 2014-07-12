@@ -1,0 +1,20 @@
+<resources>
+
+    <color name="red">#900</color>
+    <color name="green">#090</color>
+    <color name="blue">#009</color>
+    <color name="blue_light">#00ADDF</color>
+    <color name="white">#FFF</color>
+    <color name="black">#000</color>
+    <color name="black_transparent">#99000000</color>
+    <color name="black_dark">#262626</color>
+    <color name="black_dark_transparent">#332C2C2C</color>
+    <color name="black_light">#2C2C2C</color>
+    <color name="orange">#FF6426</color>
+    <color name="orange_dark">#FF7B2D</color>
+    <color name="orange_light">#FFA638</color>
+    <color name="gray">#ABABAB</color>
+    <color name="gray_light">#F6F6F6</color>
+    <color name="transparent">#00000000</color>
+
+</resources>

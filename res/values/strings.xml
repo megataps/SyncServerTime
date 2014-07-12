@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">NTP Clock Sync</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_sync_now">Sync Now</string>
+    
+    <string name="ok">OK</string>
+    <string name="cancel">Cancel</string>
+    <string name="popup_title">Message</string>
+    <string name="setting">Setting</string>
+    <string name="message_network_error">There is no Internet. Please check your connection.</string>
+    <string name="message_sync_error">There was a problem connecting to the server. Please try again later.</string>
+    <string name="loading">Loading. Please wait&#8230;</string>    
+    <string name="server_time_title">Server Time:</string>
+    <string name="sync_countdown_title">Sync Countdown:</string>
+    <string name="sync_now_title">Sync Now</string>
+    <string name="ntp_server">NTP Server:</string>
+    <string name="current_date">Current date:</string>
+    <string name="information_title">Latest update information:</string>
+    <string name="reference_timestamp">Reference Timestamp:</string>
+    <string name="originate_timestamp">Originate Timestamp:</string>
+    <string name="receive_timestamp">Receive Timestamp:</string>
+    <string name="transmit_timestamp">Transmit Timestamp:</string>
+    <string name="destination_timestamp">Destination Timestamp:</string>
+    
+    <string name="analog_clock_title">Analog Clock</string>
+    <string name="digital_clock_title">Digital Clock</string>
+
+
+</resources>
